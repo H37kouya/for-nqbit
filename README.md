@@ -5,6 +5,14 @@
 ![Issues](https://img.shields.io/github/issues/ucan-lab/docker-laravel?color=f05340)
 ![Forks](https://img.shields.io/github/forks/ucan-lab/docker-laravel?color=f05340)
 
+## Access to mySQL
+
+```bash
+$ make sql
+
+$ use laravel_local
+```
+
 ## Introduction
 
 Build a simple laravel development environment with docker-compose.
